@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there ! I am Anant Singhal 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+- 🔭 I’m currently working on Nutty Delights - ( Ecommerce platform )
+- 🌱 I’m currently learning Spring Boot and React.js
+- 📫 How to reach me: anantsinghal47@gmail.com
 
 <!--
 **anantsinghal47/anantsinghal47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
