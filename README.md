@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Spring Boot and React.js
 - 📫 How to reach me: anantsinghal47@gmail.com
 
-## Leetcode stats
+#### Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anantsinghal47)
 
 <!--
