@@ -7,7 +7,7 @@
 - 📫 How to reach me: anantsinghal47@gmail.com
 
 #### Leetcode stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/anantsinghal47)
+![Leetcode Stats](https://leetcard.jacoblin.cool/anantsinghal47?hide=ranking)
 
 <!--
 **anantsinghal47/anantsinghal47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
