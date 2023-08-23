@@ -1,6 +1,7 @@
 ### Hi there ! I am Anant Singhal 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=anantsinghal47)
+
 
 - 🔭 I’m currently working on Nutty Delights - ( Ecommerce platform )
 - 🌱 I’m currently learning Spring Boot and React.js
