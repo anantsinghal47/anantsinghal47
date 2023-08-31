@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=anantsinghal47)
 
 
-- 🔭 I’m currently developing an e-commerce platform - [Nutty Delights](nuttydelights.co.in)
+- 🔭 I’m currently developing an e-commerce platform - [Nutty Delights](https://nuttydelights.co.in)
 - 🌱 I’m currently learning Spring Boot and React.js
 - 📫 How to reach me: anantsinghal47@gmail.com
 
