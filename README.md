@@ -4,6 +4,8 @@
 
 
 - 🔭 I’m currently developing an e-commerce platform - [Nutty Delights](https://nuttydelights.co.in)
+ - <img src='https://github.com/anantsinghal47/anantsinghal47/assets/76203573/123668ec-1bfe-4d11-92ad-7f6a067d4e61' width='120px' height='102px' alt='logo'></img>
+
 - 🌱 I’m currently learning Spring Boot and React.js
 - 📫 How to reach me: anantsinghal47@gmail.com
 
